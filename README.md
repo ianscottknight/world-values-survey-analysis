@@ -27,7 +27,4 @@ Analysis and visualization of the different cultures of the world using the Worl
             └── raw         <- The original, immutable data dump.
      
 
-
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>

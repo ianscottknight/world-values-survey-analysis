@@ -3,7 +3,6 @@
 Analysis and visualization of the different cultures of the world using the World Values Survey dataset.
 
 ## Project Organization
-------------
 
     │
     ├── README.md           
@@ -26,5 +25,3 @@ Analysis and visualization of the different cultures of the world using the Worl
             ├── processed   <- The final, canonical data sets for modeling.
             └── raw         <- The original, immutable data dump.
      
-
---------
